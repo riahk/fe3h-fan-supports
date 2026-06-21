@@ -29,7 +29,7 @@ const selectSupport = (supportTag: string) => {
 
 <template>
   <main>
-    <p>Welcome! Please select the Support Conversation you'd like to view.</p>
+    <p>Welcome! Please select the Support you'd like to view.</p>
     <div class="supports-list">
       <div
         v-for="support in supports"
