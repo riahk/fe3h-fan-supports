@@ -7,11 +7,12 @@ import vueDevTools from 'vite-plugin-vue-devtools'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/fe3h-fan-supports/',
+  base: process.env.NODE_ENV === 'production' ? '/fe3h-fan-supports/' : '/',
   plugins: [vue(), vueJsx(), vueDevTools()],
   resolve: {
-    alias: {
+    alias: [],
+    /*alias: {
       '@': fileURLToPath(new URL('./src', import.meta.url)),
-    },
+    },*/
   },
 })
