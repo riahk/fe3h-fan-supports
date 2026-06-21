@@ -10,9 +10,8 @@ export default defineConfig({
   base: process.env.NODE_ENV === 'production' ? '/fe3h-fan-supports/' : '/',
   plugins: [vue(), vueJsx(), vueDevTools()],
   resolve: {
-    alias: [],
-    /*alias: {
+    alias: {
       '@': fileURLToPath(new URL('./src', import.meta.url)),
-    },*/
+    },
   },
 })

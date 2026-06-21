@@ -8,20 +8,14 @@ type Portrait = {
 
 defineProps(['support'])
 
-/*type Dialogue = {
-  character?: string
-  dialogue: string
-  portrait?: Portrait
-}*/
-
 const constructImageSource = (portrait: Portrait | undefined) => {
   if (!portrait) {
     return ''
   }
   if (portrait.type !== 'npc') {
-    return `/portraits/${portrait.character}/${portrait.type}/${portrait.expression || 'neutral'}.png`
+    return `portraits/${portrait.character}/${portrait.type}/${portrait.expression || 'neutral'}.png`
   } else {
-    return `/portraits/npc/${portrait.character}.png`
+    return `portraits/npc/${portrait.character}.png`
   }
 }
 </script>

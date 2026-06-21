@@ -39,14 +39,14 @@ const selectSupport = (supportTag: string) => {
         @click="selectSupport(support.tag)"
       >
         <img
-          :src="`/portraits/${support.leftPortrait}/war/neutral.png`"
+          :src="`portraits/${support.leftPortrait}/war/neutral.png`"
           alt="Left Portrait"
           width="200"
           height="200"
         />
         <h3>{{ support.name }}</h3>
         <img
-          :src="`/portraits/${support.rightPortrait}/war/neutral.png`"
+          :src="`portraits/${support.rightPortrait}/war/neutral.png`"
           alt="Right Portrait"
           width="200"
           height="200"
