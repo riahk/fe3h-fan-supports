@@ -18,9 +18,9 @@ const supports = [
 ]
 
 const selectSupport = (supportTag: string) => {
-  if (store.selectedSupport === supportTag) {
+  /*if (store.selectedSupport === supportTag) {
     return
-  }
+  }*/
 
   store.setSelectedSupport(supportTag)
   router.push(`/c-support`)
@@ -97,7 +97,7 @@ p {
 
   &.selected {
     background-color: mediumseagreen;
-    cursor: default;
+    /*cursor: default;*/
   }
 }
 
