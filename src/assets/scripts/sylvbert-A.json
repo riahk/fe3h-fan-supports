@@ -1,0 +1,220 @@
+{
+  "title": "Sylvain & Hubert Support Rank A",
+  "script": [
+    {
+      "character": "Hubert",
+      "dialogue": "Ugh… It seems I miscalculated. Enemy troops on all sides, and I’ve depleted most of my magic. This could spell trouble for me.",
+      "portrait": {
+        "type": "war",
+        "character": "hubert",
+        "expression": "angry"
+      }
+    },
+
+    {
+      "character": "Hubert",
+      "dialogue": "If I can sneak past them somehow, I can at least retreat back to our camp—",
+      "portrait": {
+        "type": "war",
+        "character": "hubert",
+        "expression": "angry"
+      }
+    },
+
+    {
+      "character": "Hubert",
+      "dialogue": "Wait. That sound, it’s—",
+      "portrait": {
+        "type": "war",
+        "character": "hubert",
+        "expression": "surprised"
+      }
+    },
+
+    {
+      "character": "Sylvain",
+      "dialogue": "Hyah! Hah! Take this!",
+      "portrait": {
+        "type": "war",
+        "character": "sylvain"
+      }
+    },
+
+    {
+      "character": "Hubert",
+      "dialogue": "Gautier? But I told him not to pursue. What is he doing?",
+      "portrait": {
+        "type": "war",
+        "character": "hubert",
+        "expression": "angry"
+      }
+    },
+
+    {
+      "character": "Sylvain",
+      "dialogue": "Hubert! I took care of the soldiers in this direction. Let’s get out of here.",
+      "portrait": {
+        "type": "war",
+        "character": "sylvain"
+      }
+    },
+
+    {
+      "dialogue": "A while later…"
+    },
+
+    {
+      "character": "Hubert",
+      "dialogue": "That was quite the close call.",
+      "portrait": {
+        "type": "war",
+        "character": "hubert"
+      }
+    },
+
+    {
+      "character": "Sylvain",
+      "dialogue": "Hey, Hubert. How are your injuries?",
+      "portrait": {
+        "type": "war",
+        "character": "sylvain"
+      }
+    },
+
+    {
+      "character": "Hubert",
+      "dialogue": "Not too severe, fortunately. I should make a full recovery in a matter of days. I owe you my thanks.",
+      "portrait": {
+        "type": "war",
+        "character": "hubert",
+        "expression": "happy"
+      }
+    },
+
+    {
+      "character": "Sylvain",
+      "dialogue": "You can make it up to me by not doing something that reckless again. Seriously, what were you thinking? That wasn’t the strategy we agreed to.",
+      "portrait": {
+        "type": "war",
+        "character": "sylvain",
+        "expression": "sad"
+      }
+    },
+
+    {
+      "character": "Hubert",
+      "dialogue": "Battle conditions changed. I adapted accordingly.",
+      "portrait": {
+        "type": "war",
+        "character": "hubert"
+      }
+    },
+
+    {
+      "character": "Sylvain",
+      "dialogue": "By trying to take on both battalions at once?",
+      "portrait": {
+        "type": "war",
+        "character": "sylvain",
+        "expression": "angry"
+      }
+    },
+
+    {
+      "character": "Hubert",
+      "dialogue": "I thought you might require assistance. Our scouts reported we were up against Church of Seiros soldiers, but they were also accompanied by troops from the Kingdom Army.",
+      "portrait": {
+        "type": "war",
+        "character": "hubert"
+      }
+    },
+
+    {
+      "character": "Sylvain",
+      "dialogue": "…Oh.",
+      "portrait": {
+        "type": "war",
+        "character": "sylvain",
+        "expression": "sad"
+      }
+    },
+
+    {
+      "character": "Hubert",
+      "dialogue": "You understand, then. We’ve yet to have a proper engagement against Faerghus, and I feared you might hesitate.",
+      "portrait": {
+        "type": "war",
+        "character": "hubert"
+      }
+    },
+
+    {
+      "character": "Sylvain",
+      "dialogue": "Really? After five years? I’ve had plenty of time to hesitate, and I’m still here—fighting for you and Edelgard.",
+      "portrait": {
+        "type": "war",
+        "character": "sylvain",
+        "expression": "sad"
+      }
+    },
+
+    {
+      "character": "Hubert",
+      "dialogue": "I see my error now, yes. You’ve more than proven yourself, both as a loyal adherent to our cause and an invaluable general. As I’m sure you realize, your insights will be a vital asset in the battles to come.",
+      "portrait": {
+        "type": "war",
+        "character": "hubert"
+      }
+    },
+
+    {
+      "character": "Sylvain",
+      "dialogue": "Alright, alright—no need to lay it on so thick! I wasn’t fishing for a compliment.",
+      "portrait": {
+        "type": "war",
+        "character": "sylvain"
+      }
+    },
+
+    {
+      "character": "Sylvain",
+      "dialogue": "But however valuable you think I am, just remember that you’re worth double. This whole army falls apart at the seams without you.",
+      "portrait": {
+        "type": "war",
+        "character": "sylvain",
+        "expression": "happy"
+      }
+    },
+
+    {
+      "character": "Hubert",
+      "dialogue": "Hmph. I should hope I set up enough contingency plans that one could remove me from the equation without toppling the entire structure.",
+      "portrait": {
+        "type": "war",
+        "character": "hubert"
+      }
+    },
+
+    {
+      "character": "Sylvain",
+      "dialogue": "Oh, I’ve no doubt you could somehow manage to keep things running from beyond the grave. I’d still rather you do it above-ground, though.",
+      "portrait": {
+        "type": "war",
+        "character": "sylvain"
+      }
+    },
+
+    {
+      "character": "Hubert",
+      "dialogue": "That would be my preference, as well.",
+      "portrait": {
+        "type": "war",
+        "character": "hubert"
+      }
+    },
+
+    {
+      "dialogue": "Sylvain and Hubert have reached Support Rank A."
+    }
+  ]
+}

@@ -1,0 +1,211 @@
+{
+  "title": "Sylvain & Hubert Support Rank C",
+  "script": [
+    {
+      "character": "Sylvain",
+      "dialogue": "Phew! That was a fun time. Garreg Mach sure knows how to throw a party.",
+      "portrait": {
+        "type": "academy",
+        "character": "sylvain",
+        "expression": "happy"
+      }
+    },
+
+    {
+      "character": "Sylvain",
+      "dialogue": "Now I just have to get back to my room without anyone—gah!",
+      "portrait": {
+        "type": "academy",
+        "character": "sylvain",
+        "expression": "surprised"
+      }
+    },
+
+    {
+      "character": "Hubert",
+      "dialogue": "My, my. Returning late from another night of debauchery, Gautier?",
+      "portrait": {
+        "type": "academy",
+        "character": "hubert",
+        "expression": "happy"
+      }
+    },
+
+    {
+      "character": "Sylvain",
+      "dialogue": "Hubert! You damn near scared the life out of me.",
+      "portrait": {
+        "type": "academy",
+        "character": "sylvain"
+      }
+    },
+
+    {
+      "character": "Hubert",
+      "dialogue": "Heh. A shame I couldn't finish the job.",
+      "portrait": {
+        "type": "academy",
+        "character": "hubert",
+        "expression": "happy"
+      }
+    },
+
+    {
+      "character": "Sylvain",
+      "dialogue": "Wow, okay. Rude. What are you doing up at this hour, anyway? Surely not anything enjoyable.",
+      "portrait": {
+        "type": "academy",
+        "character": "sylvain",
+        "expression": "angry"
+      }
+    },
+
+    {
+      "character": "Hubert",
+      "dialogue": "No, I suppose it wouldn’t be to one as indolent as you. I was running an errand for Lady Edelgard, nothing more.",
+      "portrait": {
+        "type": "academy",
+        "character": "hubert"
+      }
+    },
+
+    {
+      "character": "Sylvain",
+      "dialogue": "Ha, whaddya know? I was helping a girl out earlier this evening, too. Guess we have something in common.",
+      "portrait": {
+        "type": "academy",
+        "character": "sylvain",
+        "expression": "happy"
+      }
+    },
+
+    {
+      "character": "Hubert",
+      "dialogue": "Do not mock me, Gautier. Or would you like me to spread word of your transgressions to the monastery discipline committee?",
+      "portrait": {
+        "type": "academy",
+        "character": "hubert",
+        "expression": "angry"
+      }
+    },
+
+    {
+      "character": "Sylvain",
+      "dialogue": "Be my guest. I'm sure they’d be very interested in hearing what you were up to in town a couple weeks back.",
+      "portrait": {
+        "type": "academy",
+        "character": "sylvain"
+      }
+    },
+
+    {
+      "character": "Hubert",
+      "dialogue": "Pardon?",
+      "portrait": {
+        "type": "academy",
+        "character": "hubert",
+        "expression": "surprised"
+      }
+    },
+
+    {
+      "character": "Sylvain",
+      "dialogue": "Oh, were you not aware? I spotted you sneaking around behind the tavern one night. You were wearing a hood, but I'd recognize that eerie walk of yours anywhere.",
+      "portrait": {
+        "type": "academy",
+        "character": "sylvain"
+      }
+    },
+
+    {
+      "character": "Sylvain",
+      "dialogue": "Let me guess: it was another one of your precious “errands.”",
+      "portrait": {
+        "type": "academy",
+        "character": "sylvain"
+      }
+    },
+
+    {
+      "character": "Hubert",
+      "dialogue": "I assure you you’re mistaken. Perhaps you had a few too many drinks.",
+      "portrait": {
+        "type": "academy",
+        "character": "hubert"
+      }
+    },
+
+    {
+      "character": "Sylvain",
+      "dialogue": "Whatever you say, Hubert. I don’t really care what you get up to in your spare time—and frankly, I doubt you concern yourself much with what I’m doing, either.",
+      "portrait": {
+        "type": "academy",
+        "character": "sylvain"
+      }
+    },
+
+    {
+      "character": "Sylvain",
+      "dialogue": "But I did enjoy that look of surprise you had on just now. Maybe we should do this again sometime? I’d be thrilled to exchange insults with you over dinner.",
+      "portrait": {
+        "type": "academy",
+        "character": "sylvain",
+        "expression": "happy"
+      }
+    },
+
+    {
+      "character": "Hubert",
+      "dialogue": "Why wait? You are by far one of the most insufferable men I’ve ever had the misfortune of speaking to.",
+      "portrait": {
+        "type": "academy",
+        "character": "hubert"
+      }
+    },
+
+    {
+      "character": "Sylvain",
+      "dialogue": "Mm, music to my ears.",
+      "portrait": {
+        "type": "academy",
+        "character": "sylvain"
+      }
+    },
+
+    {
+      "character": "Sylvain",
+      "dialogue": "Now, if you’ll excuse me… I’d like to get a few hours of sleep in before sunrise.",
+      "portrait": {
+        "type": "academy",
+        "character": "sylvain"
+      }
+    },
+
+    {
+      "dialogue": "Sylvain leaves the scene."
+    },
+
+    {
+      "character": "Hubert",
+      "dialogue": "Ugh. He is an utter menace. And yet…",
+      "portrait": {
+        "type": "academy",
+        "character": "hubert",
+        "expression": "angry"
+      }
+    },
+
+    {
+      "character": "Hubert",
+      "dialogue": "To think he recognized me based solely on my gait. Perhaps I need to be more wary of him.",
+      "portrait": {
+        "type": "academy",
+        "character": "hubert"
+      }
+    },
+
+    {
+      "dialogue": "Sylvain and Hubert have reached Support Rank C."
+    }
+  ]
+}

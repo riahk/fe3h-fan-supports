@@ -1,0 +1,400 @@
+{
+  "title": "Sylvain & Hubert Support Rank B",
+  "script": [
+    {
+      "character": "Hubert",
+      "dialogue": "Of all the people to be assigned chore duty with…",
+      "portrait": {
+        "type": "academy",
+        "character": "hubert"
+      }
+    },
+
+    {
+      "character": "Sylvain",
+      "dialogue": "Can’t say I’m particularly happy about it either. Let’s just do our best to get these books re-shelved, alright?",
+      "portrait": {
+        "type": "academy",
+        "character": "sylvain"
+      }
+    },
+
+    {
+      "dialogue": "Some time later…"
+    },
+
+    {
+      "character": "Sylvain",
+      "dialogue": "Okay. This stack goes to the history aisle, those magic tomes go in the reason aisle, and these novels belong in the fiction aisle.",
+      "portrait": {
+        "type": "academy",
+        "character": "sylvain"
+      }
+    },
+
+    {
+      "character": "Hubert",
+      "dialogue": "Excellent. I’ll handle the tomes.",
+      "portrait": {
+        "type": "academy",
+        "character": "hubert"
+      }
+    },
+
+    {
+      "dialogue": "Some time later…"
+    },
+
+    {
+      "character": "Hubert",
+      "dialogue": "You’ve been back here a while. What are you doing?",
+      "portrait": {
+        "type": "academy",
+        "character": "hubert"
+      }
+    },
+
+    {
+      "character": "Sylvain",
+      "dialogue": "Ah, sorry—I happened to notice this shelf was sorted incorrectly. Figured I’d take care of it while I was in the neighborhood.",
+      "portrait": {
+        "type": "academy",
+        "character": "sylvain"
+      }
+    },
+
+    {
+      "character": "Hubert",
+      "dialogue": "…I see. Carry on, then.",
+      "portrait": {
+        "type": "academy",
+        "character": "hubert"
+      }
+    },
+
+    {
+      "dialogue": "Some time later…"
+    },
+
+    {
+      "character": "Sylvain",
+      "dialogue": "And we’re done! In record time, too.",
+      "portrait": {
+        "type": "academy",
+        "character": "sylvain",
+        "expression": "happy"
+      }
+    },
+
+    {
+      "character": "Hubert",
+      "dialogue": "Indeed. It would seem you’re more meticulous than I’d originally thought.",
+      "portrait": {
+        "type": "academy",
+        "character": "hubert",
+        "expression": "happy"
+      }
+    },
+
+    {
+      "character": "Sylvain",
+      "dialogue": "Uh, thanks, I think? I just like keeping my spaces ordered. Plus, the faster I am at cleaning, the more time I have to take a pretty girl out on a date.",
+      "portrait": {
+        "type": "academy",
+        "character": "sylvain"
+      }
+    },
+
+    {
+      "character": "Hubert",
+      "dialogue": "Of course. I suppose the diligence is admirable, even if the motivation is unsavory.",
+      "portrait": {
+        "type": "academy",
+        "character": "hubert"
+      }
+    },
+
+    {
+      "character": "Sylvain",
+      "dialogue": "Yeah, yeah, we all know how little you care for me. Doesn’t that curmudgeon routine ever get old?",
+      "portrait": {
+        "type": "academy",
+        "character": "sylvain"
+      }
+    },
+
+    {
+      "character": "Hubert",
+      "dialogue": "Hardly. It keeps frivolous individuals from approaching me—most of them, anyway. The fewer people are yapping away in my ear, the fewer distractions there are to interrupt my tasks.",
+      "portrait": {
+        "type": "academy",
+        "character": "hubert",
+        "expression": "happy"
+      }
+    },
+
+    {
+      "character": "Sylvain",
+      "dialogue": "Guess we each have our own way of doing things that works for us.",
+      "portrait": {
+        "type": "academy",
+        "character": "sylvain"
+      }
+    },
+
+    {
+      "character": "Sylvain",
+      "dialogue": "Anyway! Since we finished early, how about we play a game?",
+      "portrait": {
+        "type": "academy",
+        "character": "sylvain",
+        "expression": "happy"
+      }
+    },
+
+    {
+      "character": "Hubert",
+      "dialogue": "What about anything I’ve just said makes you think—wait, is that a chess set?",
+      "portrait": {
+        "type": "academy",
+        "character": "hubert",
+        "expression": "surprised"
+      }
+    },
+
+    {
+      "character": "Sylvain",
+      "dialogue": "Sure is. I found it while I was reorganizing the storage closet.",
+      "portrait": {
+        "type": "academy",
+        "character": "sylvain"
+      }
+    },
+
+    {
+      "character": "Hubert",
+      "dialogue": "We… weren’t asked to reorganize the storage closet.",
+      "portrait": {
+        "type": "academy",
+        "character": "hubert"
+      }
+    },
+
+    {
+      "character": "Sylvain",
+      "dialogue": "Yet it clearly needed a little tidying up. I’m sure the librarian will thank me later. Do you want to play or not? I see you and Edelgard dueling each other in the classroom all the time.",
+      "portrait": {
+        "type": "academy",
+        "character": "sylvain"
+      }
+    },
+
+    {
+      "character": "Hubert",
+      "dialogue": "…I suppose one game won’t hurt.",
+      "portrait": {
+        "type": "academy",
+        "character": "hubert"
+      }
+    },
+
+    {
+      "dialogue": "Some time later…"
+    },
+
+    {
+      "character": "Sylvain",
+      "dialogue": "Your move.",
+      "portrait": {
+        "type": "academy",
+        "character": "sylvain"
+      }
+    },
+
+    {
+      "character": "Hubert",
+      "dialogue": "What a fascinating gambit…",
+      "portrait": {
+        "type": "academy",
+        "character": "hubert"
+      }
+    },
+
+    {
+      "dialogue": "Some time later…"
+    },
+
+    {
+      "character": "Hubert",
+      "dialogue": "…Checkmate.",
+      "portrait": {
+        "type": "academy",
+        "character": "hubert"
+      }
+    },
+
+    {
+      "character": "Sylvain",
+      "dialogue": "Ha! You got me. That was a great game. Thanks for—",
+      "portrait": {
+        "type": "academy",
+        "character": "sylvain",
+        "expression": "happy"
+      }
+    },
+
+    {
+      "character": "Hubert",
+      "dialogue": "Hold, Gautier.",
+      "portrait": {
+        "type": "academy",
+        "character": "hubert",
+        "expression": "angry"
+      }
+    },
+
+    {
+      "character": "Sylvain",
+      "dialogue": "Hm? Have I managed to offend you again, Hubert?",
+      "portrait": {
+        "type": "academy",
+        "character": "sylvain"
+      }
+    },
+
+    {
+      "character": "Hubert",
+      "dialogue": "In a sense. I believe you threw that game.",
+      "portrait": {
+        "type": "academy",
+        "character": "hubert"
+      }
+    },
+
+    {
+      "character": "Sylvain",
+      "dialogue": "Interesting theory. You think I’d give up an opportunity to beat you at something?",
+      "portrait": {
+        "type": "academy",
+        "character": "sylvain"
+      }
+    },
+
+    {
+      "character": "Hubert",
+      "dialogue": "Not initially. You were playing quite well at the beginning. Anticipating my moves, keeping me guessing. Then, suddenly, you began making mistakes. Major ones that I wouldn’t have expected based on what I’d seen.",
+      "portrait": {
+        "type": "academy",
+        "character": "hubert"
+      }
+    },
+
+    {
+      "character": "Sylvain",
+      "dialogue": "Maybe you’re just that good.",
+      "portrait": {
+        "type": "academy",
+        "character": "sylvain"
+      }
+    },
+
+    {
+      "character": "Hubert",
+      "dialogue": "Don’t patronize me. Why would it even occur to you to do that?",
+      "portrait": {
+        "type": "academy",
+        "character": "hubert",
+        "expression": "angry"
+      }
+    },
+
+    {
+      "character": "Sylvain",
+      "dialogue": "Okay, fine, yes. I threw the game—but I didn’t go in planning to. I thought it would be fun to surprise you again, since you seem to have such a low opinion of me. Then I got nervous, because…",
+      "portrait": {
+        "type": "academy",
+        "character": "sylvain"
+      }
+    },
+
+    {
+      "character": "Hubert",
+      "dialogue": "Go on.",
+      "portrait": {
+        "type": "academy",
+        "character": "hubert"
+      }
+    },
+
+    {
+      "character": "Sylvain",
+      "dialogue": "I don’t know. Maybe I decided it would be better if you went on thinking I’m a good-for-nothing slacker. You seemed happy enough with that.",
+      "portrait": {
+        "type": "academy",
+        "character": "sylvain"
+      }
+    },
+
+    {
+      "character": "Hubert",
+      "dialogue": "What utter nonsense. It doesn’t make me happy to see one as competent as you not live up to your potential.",
+      "portrait": {
+        "type": "academy",
+        "character": "hubert",
+        "expression": "angry"
+      }
+    },
+
+    {
+      "character": "Hubert",
+      "dialogue": "The world has enough truly irredeemable nobles running around, misusing power they’ve done nothing to earn. We don’t need the small handful of upstanding ones worsening the situation.",
+      "portrait": {
+        "type": "academy",
+        "character": "hubert",
+        "expression": "angry"
+      }
+    },
+
+    {
+      "character": "Sylvain",
+      "dialogue": "I, uh… Okay. I see your point. I’m not sure if “upstanding” is the best word to describe me, but… Guess I owe you a proper chess game now, huh?",
+      "portrait": {
+        "type": "academy",
+        "character": "sylvain",
+        "expression": "surprised"
+      }
+    },
+
+    {
+      "character": "Hubert",
+      "dialogue": "Another day, perhaps. I suspect you have responsibilities to shirk and women to irritate.",
+      "portrait": {
+        "type": "academy",
+        "character": "hubert"
+      }
+    },
+
+    {
+      "character": "Sylvain",
+      "dialogue": "And I’m sure you have a whole laundry list of errands to run yourself ragged with.",
+      "portrait": {
+        "type": "academy",
+        "character": "sylvain"
+      }
+    },
+
+    {
+      "character": "Hubert",
+      "dialogue": "Heh. Until next time, then.",
+      "portrait": {
+        "type": "academy",
+        "character": "hubert",
+        "expression": "happy"
+      }
+    },
+
+    {
+      "dialogue": "Sylvain and Hubert have reached Support Rank B."
+    }
+  ]
+}

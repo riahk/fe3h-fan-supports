@@ -1,0 +1,303 @@
+{
+  "title": "Sylvain & Hubert Support Rank A+",
+  "script": [
+    {
+      "character": "Hubert",
+      "dialogue": "There is still so much left to be done…",
+      "portrait": {
+        "type": "war",
+        "character": "hubert"
+      }
+    },
+
+    {
+      "character": "Sylvain",
+      "dialogue": "Evening, Hubert. Keeping your usual hours, I see.",
+      "portrait": {
+        "type": "war",
+        "character": "sylvain"
+      }
+    },
+
+    {
+      "character": "Hubert",
+      "dialogue": "Ah, Gautier. Taking the late guard shift again?",
+      "portrait": {
+        "type": "war",
+        "character": "hubert"
+      }
+    },
+
+    {
+      "character": "Sylvain",
+      "dialogue": "Yeah. I’ve been finding it difficult to sleep recently anyway, so I may as well make use of the time.",
+      "portrait": {
+        "type": "war",
+        "character": "sylvain"
+      }
+    },
+
+    {
+      "character": "Hubert",
+      "dialogue": "If you’re struggling to remain well-rested, I’m sure we could have one of our medics fix you a sleeping draught. You’re of little use to us if you’re exhausted.",
+      "portrait": {
+        "type": "war",
+        "character": "hubert"
+      }
+    },
+
+    {
+      "character": "Sylvain",
+      "dialogue": "I’ll be fine! You worry far too much.",
+      "portrait": {
+        "type": "war",
+        "character": "sylvain",
+        "expression": "happy"
+      }
+    },
+
+    {
+      "character": "Hubert",
+      "dialogue": "On the contrary, it is my job to ensure everyone in our army is able to contribute effectively.",
+      "portrait": {
+        "type": "war",
+        "character": "hubert"
+      }
+    },
+
+    {
+      "character": "Sylvain",
+      "dialogue": "Yes, I’m well aware—you’re only saying it every other sentence. Actually… Repeat it a few more times and my sleeping issues just might go away.",
+      "portrait": {
+        "type": "war",
+        "character": "sylvain"
+      }
+    },
+
+    {
+      "character": "Hubert",
+      "dialogue": "Very funny. I’d almost begun to miss your backtalk.",
+      "portrait": {
+        "type": "war",
+        "character": "hubert"
+      }
+    },
+
+    {
+      "character": "Sylvain",
+      "dialogue": "Heh. I’ve always believed you were far more fond of me than you cared to admit. I can have that effect on people.",
+      "portrait": {
+        "type": "war",
+        "character": "sylvain",
+        "expression": "happy"
+      }
+    },
+
+    {
+      "character": "Hubert",
+      "dialogue": "Let’s not get ahead of ourselves. It is not fondness so much as it is fascination. Despite your reprehensible behavior, I cannot deny that you’ve made great efforts to curb your shortcomings.",
+      "portrait": {
+        "type": "war",
+        "character": "hubert"
+      }
+    },
+
+    {
+      "character": "Hubert",
+      "dialogue": "And as grating as your personality is, the truth of the matter is that you made—and continue to make—great sacrifices by staying here.",
+      "portrait": {
+        "type": "war",
+        "character": "hubert"
+      }
+    },
+
+    {
+      "character": "Sylvain",
+      "dialogue": "If this is about me turning my back on the Kingdom again, that was hardly a sacrifice. If anything, the decision I made back then was self-serving and impulsive. But I can’t do anything to change it, so…",
+      "portrait": {
+        "type": "war",
+        "character": "sylvain",
+        "expression": "sad"
+      }
+    },
+
+    {
+      "character": "Hubert",
+      "dialogue": "If it were such a simple matter, I suspect you would have deserted long ago. Something else made you stay.",
+      "portrait": {
+        "type": "war",
+        "character": "hubert"
+      }
+    },
+
+    {
+      "character": "Sylvain",
+      "dialogue": "And you want to know what it was, clearly. I guess I really do fascinate you.",
+      "portrait": {
+        "type": "war",
+        "character": "sylvain"
+      }
+    },
+
+    {
+      "character": "Sylvain",
+      "dialogue": "The truth is that I’m still figuring it out myself. But... You said something to me a long time ago, about irredeemable nobles misusing their power.",
+      "portrait": {
+        "type": "war",
+        "character": "sylvain",
+        "expression": "sad"
+      }
+    },
+
+    {
+      "character": "Hubert",
+      "dialogue": "I believe I also made it clear I did not consider you one of them.",
+      "portrait": {
+        "type": "war",
+        "character": "hubert"
+      }
+    },
+
+    {
+      "character": "Sylvain",
+      "dialogue": "Which almost makes me worse in a way, right? Having the ability to change for the better and choosing not to.",
+      "portrait": {
+        "type": "war",
+        "character": "sylvain",
+        "expression": "angry"
+      }
+    },
+
+    {
+      "character": "Sylvain",
+      "dialogue": "It got to a point where I was so certain that if I carried on as I was—graduated the Academy and went back home to do exactly what was expected of me, no matter how much I resented it—I would become just as irredeemable.",
+      "portrait": {
+        "type": "war",
+        "character": "sylvain",
+        "expression": "sad"
+      }
+    },
+
+    {
+      "character": "Sylvain",
+      "dialogue": "Frankly, there were no good options. Betraying my country isn’t what I’d call honorable.",
+      "portrait": {
+        "type": "war",
+        "character": "sylvain"
+      }
+    },
+
+    {
+      "character": "Hubert",
+      "dialogue": "Honor… Such a flawed concept. One’s loyalty should be earned, not assumed.",
+      "portrait": {
+        "type": "war",
+        "character": "hubert",
+        "expression": "angry"
+      }
+    },
+
+    {
+      "character": "Sylvain",
+      "dialogue": "Is that how it is with you and Edelgard? It’s hard to tell, sometimes, with how obsessive you are.",
+      "portrait": {
+        "type": "war",
+        "character": "sylvain"
+      }
+    },
+
+    {
+      "character": "Hubert",
+      "dialogue": "She and I went through a similar dilemma as you, in a way. Realizing the rot at the center of our institutions, understanding that we could either follow that toxic path or cut our own. Obviously you know what we chose.",
+      "portrait": {
+        "type": "war",
+        "character": "hubert"
+      }
+    },
+
+    {
+      "character": "Sylvain",
+      "dialogue": "You started a war.",
+      "portrait": {
+        "type": "war",
+        "character": "sylvain"
+      }
+    },
+
+    {
+      "character": "Hubert",
+      "dialogue": "Like you said: there were no good options.",
+      "portrait": {
+        "type": "war",
+        "character": "hubert"
+      }
+    },
+
+    {
+      "character": "Sylvain",
+      "dialogue": "Ugh. That’s life sometimes, isn’t it? But we have to keep walking.",
+      "portrait": {
+        "type": "war",
+        "character": "sylvain",
+        "expression": "sad"
+      }
+    },
+
+    {
+      "character": "Hubert",
+      "dialogue": "Precisely.",
+      "portrait": {
+        "type": "war",
+        "character": "hubert"
+      }
+    },
+
+    {
+      "character": "Hubert",
+      "dialogue": "Thank you for sharing your thoughts with me, Gautier. They were very… Enlightening.",
+      "portrait": {
+        "type": "war",
+        "character": "hubert",
+        "expression": "happy"
+      }
+    },
+
+    {
+      "character": "Sylvain",
+      "dialogue": "Sure, let’s call it that. If you’re ever bored again in the future, I’d be happy to keep you entertained.",
+      "portrait": {
+        "type": "war",
+        "character": "sylvain",
+        "expression": "happy"
+      }
+    },
+
+    {
+      "character": "Hubert",
+      "dialogue": "That’s not—you know what, nevermind. There is only so much of your nonsense I can take in one sitting. Farewell.",
+      "portrait": {
+        "type": "war",
+        "character": "hubert",
+        "expression": "blushing"
+      }
+    },
+
+    {
+      "dialogue": "Hubert leaves the scene."
+    },
+
+    {
+      "character": "Sylvain",
+      "dialogue": "My nonsense, he says. Has he ever looked in a mirror?",
+      "portrait": {
+        "type": "war",
+        "character": "sylvain",
+        "expression": "blushing"
+      }
+    },
+
+    {
+      "dialogue": "Sylvain and Hubert have reached Support Rank A+."
+    }
+  ]
+}
